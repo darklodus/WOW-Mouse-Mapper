@@ -9,6 +9,10 @@ A small Windows desktop app to identify what your mouse buttons actually send an
 
 [Release notes and all downloads](https://github.com/darklodus/WOW-Mouse-Mapper/releases/latest)
 
+![WoW Mouse Mapper showing a detected wheel click, a highlighted mouse diagram, and three example WoW bindings](docs/images/wow-mouse-mapper.jpg)
+
+*App preview with example bindings. Identify an input, label the physical button, and plan its WoW action.*
+
 ## Use it
 
 Open **WOW-Mouse-Mapper.exe** from the portable Windows x64 build. No installation or administrator access is required. Portable builds include the .NET runtime; source builds require the .NET 10 SDK.
