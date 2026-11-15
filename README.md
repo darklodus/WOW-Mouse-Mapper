@@ -2,6 +2,13 @@
 
 A small Windows desktop app to identify what your mouse buttons actually send and keep a personal World of Warcraft binding plan.
 
+[![Download EXE](https://img.shields.io/badge/Download-EXE-22c55e?style=for-the-badge)](https://github.com/darklodus/WOW-Mouse-Mapper/releases/latest/download/WOW-Mouse-Mapper.exe)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-2563eb?style=for-the-badge)](https://github.com/darklodus/WOW-Mouse-Mapper/releases/latest/download/WOW-Mouse-Mapper-Windows-x64.zip)
+
+**Windows 10/11 · x64 · No installation required.** Download the EXE to run directly, or grab the ZIP with the executable and README. Both buttons always point to the latest release.
+
+[Release notes and all downloads](https://github.com/darklodus/WOW-Mouse-Mapper/releases/latest)
+
 ## Use it
 
 Open **WOW-Mouse-Mapper.exe** from the portable Windows x64 build. No installation or administrator access is required. Portable builds include the .NET runtime; source builds require the .NET 10 SDK.
